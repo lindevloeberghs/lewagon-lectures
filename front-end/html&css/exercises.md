@@ -1,3 +1,6 @@
+# Before the exercises
+Install the needed gems and other things like in the slides
+
 # Profile Content
 We're going to create a really simple profile page about ourselve
 An example can be seen here: http://lewagon.github.io/html-css-challenges/01-profile-content/

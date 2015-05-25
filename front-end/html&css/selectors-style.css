@@ -1,0 +1,26 @@
+h1 {
+  color: red;
+  font-weight: bold;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+#navigation {
+  position: fixed;
+  top: 0;
+}
+
+#navigation li {
+  float: left;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,7 @@
+#logo {
+  width: 40px;
+}
+
+.img-circle {border-radius: 50%}
+.shadowed {box-shadow: 5px 5px 3px black;}
+#leader{border: 5px solid red;}
