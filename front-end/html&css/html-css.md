@@ -1,0 +1,12 @@
+first:
+  - install things accordingly (see slides) -> let's do this after the lecture
+  - front-end languages:
+    - html -> content and structure
+    - css -> appareance, style (make it look pretty)
+    - js -> dynamic behavior
+- second: HTML
+  - html is a markup language
+  - how does a basic html file looks like?
+    - create a file like basic.html
+      - doctype: The <!DOCTYPE> declaration is not an HTML tag; it is an instruction to the web browser about what version of HTML the page is written in.
+      -
