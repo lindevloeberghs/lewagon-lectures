@@ -125,3 +125,23 @@
   OPEN: quiz1.html and ask how it's going to look like
   OPEN: quiz2.html and ask how it's going to look like
 # LAYOUT
+  This is the last part! You can almost start the exercises!
+  What you need to know is that there are block elements (h1, p, ul, li) and inline elements (em, strong, a, img). The difference between block elements and inline elements is that a block element is always going to take up the maximum width (if it's not set) and always has a line-breake before and after the element! Let's show this with an example.
+
+  OPEN: layout.html
+
+  How to center a div? This is something you'll do a lot in your web career! :)
+  CREATE: center.html
+
+# FLOATING
+  How to get different divs next to each other -> use floating!
+  Let's do this again with some examples!
+    - CREATE float.html (add an remove float: left to really show them the difference!)
+    - CREATE float-right.html (add an remove clear:right; to show them what happens with that)
+    - CREATE float-both.html (add an remove clear:both to show what happens with p)
+
+  You can also use position: relative, when there is no specific place you want to position your div (top, right, left, bottom, left). Let's do this with an example:
+    - CREATE relative.html
+    - CREATE fixed-sidebar.html
+
+
