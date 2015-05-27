@@ -2,7 +2,7 @@
 Install the needed gems and other things like in the slides
 
 # Profile Content
-We're going to create a really simple profile page about ourselve
+We're going to create a really simple profile page
 An example can be seen here: http://lewagon.github.io/html-css-challenges/01-profile-content/
 So you're going to rebuild this for yourself.
 Follow the steps that are in kitt:
@@ -38,6 +38,6 @@ To finish this in a correct way, you're going to want to read the steps that kit
 - add the footer div
 
 # Event form
-The last exercise for the day! Yay! For this one we're stepping away from the profile page you've been working on and now we want to create a form. But don't forget to style it in the end!
+The last exercise for the day! Yay! For this one we're leaving the profile page for what it is and now we want to create a form. But don't forget to style it in the end!
 
 GOOD LUCK!
