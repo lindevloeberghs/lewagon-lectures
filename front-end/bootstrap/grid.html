@@ -5,10 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>--- TODO ---</title>
+    <title>Container</title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+
+    <style type="text/css">
+      .first-column {
+        background-color: yellow;
+      }
+
+      .second-column {
+        background-color: red;
+      }
+    </style>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- Leave those next 4 lines if you care about users using IE8 -->
@@ -21,11 +31,17 @@
 
 
     <!-- TODO: Here goes your content! -->
-    <button data-toggle="modal" data-target="#sign-up">Join</button>
+    <div class="container">
+    <!--Define a container-->
+      <div class="row">
+        <div class="col-xs-6 first-column">
+        </div>
 
-    <div class="modal fade" id="sign-up">
-      This is the modal!
+        <div class="col-xs-6 second-column">
+        </div>
+      </div>
     </div>
+
 
     <!-- Including Bootstrap JS (with its jQuery dependency) so that dynamic components work -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
